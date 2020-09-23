@@ -1,0 +1,15 @@
+.flickity-button {
+	padding: 1px 6px;	
+}
+
+.flickity-button:focus,
+.flickity-button:hover {
+	color: #333;
+}
+
+.flickity-prev-next-button .flickity-button-icon {
+	width: 40%;
+	height: 40%;
+	left: 30%;
+	top: 32%;
+}
